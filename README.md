@@ -21,10 +21,6 @@
 
 <br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-tzw&layout=compact&theme=buefy&hide_border=true" />
-</p>
-
 <!--- Logos --->
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
