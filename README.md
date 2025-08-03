@@ -10,24 +10,27 @@
   </a>
 </p>
 
-<p align="center"> 
+<p align="center">
   I’m a creative developer who loves using React, TypeScript, and Three.js to build rich, interactive web experiences.
-</p>
-<p align="center"> 
-  📫 <a href="mailto:ryan@ryantzw.dev">Email</a> • 
-  🌐 <a href="https://ryantzw.dev">Portfolio</a> • 
-  <a href="https://linkedin.com/in/ryan-tzw">LinkedIn</a>
 </p>
 
 <br>
 
+<p align="center">
+  📫 <a href="mailto:ryan@ryantzw.dev">Email</a> •
+  🌐 <a href="https://ryantzw.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/ryan-tzw">LinkedIn</a>
+</p>
+
+<br><br>
+
 <!--- Logos --->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-    <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32" height="32" />
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="32" height="32"/>
+    <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="32" height="32" />
 </p>
