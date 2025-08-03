@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ryantzw.dev/">
-    <img src="./assets/header.png" />
+    <img src="./header.svg" />
   </a>
 </p>
 
