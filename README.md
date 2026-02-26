@@ -1,17 +1,13 @@
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
   <a href="https://ryantzw.dev/">
-    <img src="./header-large.svg" />
+    <img src="./header.svg" />
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 0;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Yeseva+One&weight=500&duration=3000&pause=3000&color=A586F7&center=true&width=435&lines=Frontend+Engineer+%E2%80%A2+Creative+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js;Building+interactive+web+experiences.;Blending+design+and+engineering.;Driven+by+curiosity+%26+creativity.;Writing+way+too+many+console.logs." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&weight=500&duration=3000&pause=3000&color=A586F7&center=true&width=435&lines=Software+Engineer+%E2%80%A2+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js;Building+interactive+web+experiences.;Blending+design+and+engineering.;Driven+by+curiosity+%26+creativity.;Writing+way+too+many+console.logs." alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  I’m a creative developer who loves using React, TypeScript, and Three.js to build rich, interactive web experiences.
 </p>
 
 <br>
@@ -32,5 +28,4 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="32" height="32"/>
     <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" />
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="32" height="32" />
 </p>
